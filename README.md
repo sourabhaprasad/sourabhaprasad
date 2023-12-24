@@ -6,7 +6,7 @@
 
 
 ### Hello! 
-My name is Sourabha and currently I am an Artificial Intelligence and Machine Learning Student. 
+My name is Sourabha and currently am an Artificial Intelligence and Machine Learning Student. 
 
 ### About me
 
