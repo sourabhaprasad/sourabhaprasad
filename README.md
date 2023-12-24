@@ -6,12 +6,12 @@
 
 ***
 ### Hello! 
-My name is Sourabha and currently am an Artificial Intelligence and Machine Learning Student. 
+I'm Sourabha, currently pursuing studies in Artificial Intelligence and Machine Learning.
 
 ***
 ### About me
 
-Hey there! I'm a second-year engineering whiz at Global Academy, diving headfirst into the captivating world of Artificial Intelligence and Machine Learning. Right now, I'm on this exciting journey of self-discovery, exploring my interests and pushing my boundaries.
+I'm a second-year engineering whiz at Global Academy, diving headfirst into the captivating world of Artificial Intelligence and Machine Learning. Right now, I'm on this exciting journey of self-discovery, exploring my interests and pushing my boundaries.
 
 
 ***
