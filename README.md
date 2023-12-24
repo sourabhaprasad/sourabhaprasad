@@ -23,7 +23,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ***
 ### Currently Delving Into 
 ![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=E6C9E1)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white&color=AB8BCA)
+![JavaScript](https://img.shields.io/badge/logo-JavaScript-blue?logo=javascript&logoColor=white&color=AB8BCA)
 
 ***
 <!--
