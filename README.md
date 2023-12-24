@@ -5,17 +5,17 @@
 <br>
 
 ***
-## Hello! 
+### Hello! 
 My name is Sourabha and currently am an Artificial Intelligence and Machine Learning Student. 
 
 ***
-## About me
+### About me
 
 Hey there! I'm a second-year engineering whiz at Global Academy, diving headfirst into the captivating world of Artificial Intelligence and Machine Learning. Right now, I'm on this exciting journey of self-discovery, exploring my interests and pushing my boundaries.
 
 
 ***
-## Technologies & Tools 
+### Technologies & Tools 
 ![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA)
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1)
 ![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8)
