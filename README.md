@@ -1,4 +1,9 @@
-![I'm Sourabha](https://github.com/sourabhaprasad/sourabhaprasad/assets/70069572/a9edf61f-02d2-4b16-aa21-7f3adc030091)
+<p align='center'>
+  <img src= 'https://github.com/sourabhaprasad/sourabhaprasad/assets/70069572/a9edf61f-02d2-4b16-aa21-7f3adc030091'>
+</p>
+
+<br>
+[![Twitter Badge]](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/sourabha2401)
 
 
 ### Hi there 👋
