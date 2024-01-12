@@ -23,7 +23,9 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ***
 ### Currently Delving Into 
 ![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=E6C9E1&labelColor=black)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AB8BCA&labelColor=black)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black)
+![React](https://img.shields.io/badge/build-ReactJS-AB8BCA?style=flat&logo=react&logoColor=white&label=Code&labelColor=black&color=7c4a7c
+)
 ***
 <!--
 **sourabhaprasad/sourabhaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
