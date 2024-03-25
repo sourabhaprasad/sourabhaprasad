@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src= 'https://github.com/sourabhaprasad/sourabhaprasad/assets/70069572/a9edf61f-02d2-4b16-aa21-7f3adc030091'>
+  <img src= 'https://github.com/sourabhaprasad/sourabhaprasad/assets/70069572/a9edf61f-02d2-4b16-aa21-7f3adc030091' height="250">
 </p>
 
 <br>
@@ -32,7 +32,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   <a href="https://twitter.com/sourabha2401" target="_blank">
@@ -44,9 +44,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
   </a>
 </div>
 
-###
-###
 
+###
+###
+-->
 <!--
 **sourabhaprasad/sourabhaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
