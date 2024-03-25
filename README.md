@@ -45,11 +45,6 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sourabhaprasad/count.svg?"  />
-</div>
-
 ###
 
 <!--
