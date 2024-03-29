@@ -31,7 +31,9 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+
+***
+### Connect with me
 <p align="left">
 <a href="https://twitter.com/sourabha2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabha2401" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sourabhaprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhaprasad" height="30" width="40" /></a>
@@ -39,7 +41,8 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 <a href="https://codepen.io/souri-droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souri-droid" height="30" width="40" /></a>
 </p>
 
-
+***
+### 
 
 
 
