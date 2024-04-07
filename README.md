@@ -46,16 +46,13 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhaprasad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad" alt="sourabhaprasad" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad" alt="sourabhaprasad" /></a> </p>
 
-<p align="left">
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en" alt="sourabhaprasad" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" />
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en" alt="sourabhaprasad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" /></p>
-
 
 
 
