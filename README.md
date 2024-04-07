@@ -47,9 +47,11 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhaprasad" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en&theme=dark" alt="sourabhaprasad" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&theme=dark" alt="sourabhaprasad" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en&theme=dark" alt="sourabhaprasad" width="350" />
+  <span style="margin: 0 50px;">  </span> <!-- Empty span for gap -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&theme=dark" alt="sourabhaprasad" width="350" />
 </p>
+
 
 
 <p align="left"> 
