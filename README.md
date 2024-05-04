@@ -54,7 +54,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad&theme=onedark" alt="sourabhaprasad" style="width: 90%; height: auto; />
+    <img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad&theme=onedark" alt="sourabhaprasad" style="width: 90%; height: auto;" />
   </a> 
 </p>
 
