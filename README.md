@@ -46,15 +46,15 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ### 
 
 
-<p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en" alt="sourabhaprasad" style="width: 40%; height: auto;"> &nbsp; 
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" style="width: 40%; height: auto;"> &nbsp; 
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en" alt="sourabhaprasad" style="width: 40%; height: auto;" /> &nbsp; 
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" style="width: 40%; height: auto;" /> &nbsp; 
 </p>
 
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad&theme=onedark" alt="sourabhaprasad" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad&theme=onedark" alt="sourabhaprasad" style="width: 90%; height: auto; />
   </a> 
 </p>
 
