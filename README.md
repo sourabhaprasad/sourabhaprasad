@@ -33,7 +33,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 ### Essentials
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhaprasad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhaprasad&label=Profile%20views&color=blueviolet&style=flat" alt="sourabhaprasad" /> </p>
 <p align="left">
 <a href="https://twitter.com/sourabha2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabha2401" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sourabhaprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhaprasad" height="30" width="40" /></a>
