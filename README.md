@@ -61,12 +61,17 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ### Essentials
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhaprasad&label=Profile%20views&color=blueviolet&style=flat" alt="sourabhaprasad" /> </p>
 <p align="left">
-<a href="https://twitter.com/sourabha2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabha2401" height="30" width="40" /></a>
+  
+![GitLab](https://img.shields.io/badge/GitLab-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&labelColor=ef6351&link=https%3A%2F%2Fgitlab.com%2Fsourabhaprasad)
+![Twitter](https://img.shields.io/badge/Twitter-32908f?style=flat&logo=x&logoColor=white&color=black&labelColor=32908f&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)
+
+
+<!--
 <a href="https://www.codechef.com/users/sourabhaprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhaprasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourabhaprasad04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabhaprasad04" height="30" width="40" /></a>
 <a href="https://codepen.io/souri-droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souri-droid" height="30" width="40" /></a>
 </p>
-
+-->
 
 ***
 ### 
