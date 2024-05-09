@@ -16,35 +16,35 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 ### Technologies & Tools 
-
-- Markup & Styling Languages
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA&labelColor=black)
-![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
-![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-f0f7ee?style=flat&logo=bootstrap&logoColor=white&color=f0f7ee&labelColor=black)
-![Tailwind](https://img.shields.io/badge/Code-Tailwind%20CSS-c4d7f2?style=flat&logo=tailwindcss&logoColor=white&color=c4d7f2&labelColor=black)
-
-
-
-- Programming Languages
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black)
-![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=E6C9E1&labelColor=black)
-![C](https://img.shields.io/badge/Code-C-D8BFD8?style=flat&logo=c&logoColor=white&color=f6ca94&labelColor=black)
-![C++](https://img.shields.io/badge/Code-C++-D8BFD8?style=flat&logo=cplusplus&logoColor=white&color=bde0fe&labelColor=black)
-
-- Libraries & Frameworks
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/build-React.js-AB8BCA?style=flat&logo=react&logoColor=white&label=Code&labelColor=black&color=7c4a7c)
-![Node.js](https://img.shields.io/badge/build-Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&label=Code&labelColor=black&color=c1ebc0)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&label=Code&labelColor=black&color=f6c2f3)
-
-- Tools
+  <div>
+    
+  - Markup & Styling Languages
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
-![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebook-afdedc?style=flat&logo=jupyter&logoColor=white&color=afdedc&labelColor=black)
-![Colab](https://img.shields.io/badge/Tools-Google%20Colab-c7b8ea?style=flat&logo=googlecolab&logoColor=white&color=c7b8ea&labelColor=black)
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA&labelColor=black)
+  ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-f0f7ee?style=flat&logo=bootstrap&logoColor=white&color=f0f7ee&labelColor=black)
+  ![Tailwind](https://img.shields.io/badge/Code-Tailwind%20CSS-c4d7f2?style=flat&logo=tailwindcss&logoColor=white&color=c4d7f2&labelColor=black)
+  
+  - Programming Languages
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black)
+  ![Python](https://img.shields.io/badge/Code-Python-D8BFD8?style=flat&logo=python&logoColor=white&color=E6C9E1&labelColor=black)
+  ![C](https://img.shields.io/badge/Code-C-D8BFD8?style=flat&logo=c&logoColor=white&color=f6ca94&labelColor=black)
+  ![C++](https://img.shields.io/badge/Code-C++-D8BFD8?style=flat&logo=cplusplus&logoColor=white&color=bde0fe&labelColor=black)
+  
+  - Libraries & Frameworks
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/build-React.js-AB8BCA?style=flat&logo=react&logoColor=white&label=Code&labelColor=black&color=7c4a7c)
+  ![Node.js](https://img.shields.io/badge/build-Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&label=Code&labelColor=black&color=c1ebc0)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&label=Code&labelColor=black&color=f6c2f3)
+  
+  - Tools
+    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
+  ![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebook-afdedc?style=flat&logo=jupyter&logoColor=white&color=afdedc&labelColor=black)
+  ![Colab](https://img.shields.io/badge/Tools-Google%20Colab-c7b8ea?style=flat&logo=googlecolab&logoColor=white&color=c7b8ea&labelColor=black)
+  
+  </div>
 
 
 
