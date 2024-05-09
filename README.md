@@ -20,8 +20,8 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black)
-![React](https://img.shields.io/badge/build-ReactJS-AB8BCA?style=flat&logo=react&logoColor=white&label=Code&labelColor=black&color=7c4a7c
-)
+![React](https://img.shields.io/badge/build-ReactJS-AB8BCA?style=flat&logo=react&logoColor=white&label=Code&labelColor=black&color=7c4a7c)
+![Node.js](https://img.shields.io/badge/build-NodeJS-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&label=Code&labelColor=black&color=4cbb17)
 
 ***
 ### Currently Delving Into 
