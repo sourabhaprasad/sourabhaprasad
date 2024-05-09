@@ -15,7 +15,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 
 ***
-### Technologies & Tools 
+## Technologies & Tools 
   <div>
     
   - Markup & Styling Languages
