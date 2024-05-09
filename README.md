@@ -21,6 +21,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Html](https://img.shields.io/badge/Code-HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA&labelColor=black)
 ![CSS](https://img.shields.io/badge/Code-CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
+![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-f0f7ee?style=flat&logo=bootstrap&logoColor=white&color=f0f7ee&labelColor=black)
+![Tailwind](https://img.shields.io/badge/Code-Tailwind%20CSS-c4d7f2?style=flat&logo=tailwindcss&logoColor=white&color=c4d7f2&labelColor=black)
+
+
 
 - Programming Languages
 
