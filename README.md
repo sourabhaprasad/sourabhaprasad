@@ -54,7 +54,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&card_width=320&layout=compact&theme=dark" alt="sourabhaprasad" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact&theme=dark" alt="sourabhaprasad" />
 </div>
 
 ***
