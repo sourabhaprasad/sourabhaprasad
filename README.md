@@ -50,7 +50,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 ### Currently Delving Into 
+![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff)
 ![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
+![Java](https://img.shields.io/badge/RDBMS-SQL-D8BFD8?style=flat&logoColor=white&color=c76d7e&labelColor=black)
+
 
 ***
 <div align="center">
