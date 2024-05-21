@@ -36,8 +36,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
   - Libraries & Frameworks
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React.js-AB8BCA?style=flat&logo=react&logoColor=white&labelColor=black&color=7c4a7c)
+  <!--
   ![Node.js](https://img.shields.io/badge/Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&labelColor=black&color=c1ebc0)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=black&color=f6c2f3)
+  -->
   
   - Tools
     
