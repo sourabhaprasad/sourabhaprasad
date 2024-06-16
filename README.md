@@ -69,7 +69,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 <p align="left">
   
 [![GitLab](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&label=GitLab&labelColor=ef6351&link=https%3A%2F%2Fgitlab.com%2Fsourabhaprasad)](https://gitlab.com/sourabhaprasad)
-[![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://twitter.com/sourabha2401)
+[![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://twitter.com/sourabha_prasad)
 
 
 <!--
