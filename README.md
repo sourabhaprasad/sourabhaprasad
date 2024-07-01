@@ -71,11 +71,8 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 [![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/)
 
-[![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad)
-<!--
 [![GitLab](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&label=GitLab&labelColor=ef6351)](https://gitlab.com/sourabhaprasad)
-[![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=72bf6a)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true)
--->
+[![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=72bf6a)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true) [![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) 
 
 
 <!--
