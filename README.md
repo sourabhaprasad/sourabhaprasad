@@ -53,7 +53,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 ### Currently Delving Into 
-![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff)
+<!--![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) -->
 ![PostgreSQL ](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2)
 ![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
 
@@ -69,8 +69,7 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 <p align="left">
   
 
-[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/)
-
+[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/) [![Leet Code](https://img.shields.io/badge/Profile-32908f?style=flat&logo=leetcode&label=LeetCode&logoColor=white&color=black&labelColor=ff964f)](https://leetcode.com/u/sourabhaprasad/)
 [![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) 
 <!--
 [![GitLab](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&label=GitLab&labelColor=ef6351)](https://gitlab.com/sourabhaprasad)
