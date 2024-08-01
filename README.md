@@ -18,13 +18,14 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 ***
 ## Technologies & Tools 
   <div>
+
+  - Data Science & Machine Learning
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-AB8BCA?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=8E7AB5)
+  ![Pandas](https://img.shields.io/badge/Pandas-AB8BCA?style=flat&logo=pandas&logoColor=white&labelColor=black&color=B784B7)
+  ![NumPy](https://img.shields.io/badge/NumPy-AB8BCA?style=flat&logo=numpy&logoColor=white&labelColor=black&color=EEA5A6)
+  ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-AB8BCA?style=flat&logo=scikitlearn&logoColor=white&labelColor=black&color=E493B3)
     
-  - Markup & Styling Languages
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Html](https://img.shields.io/badge/HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA&labelColor=black)
-  ![CSS](https://img.shields.io/badge/CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-f0f7ee?style=flat&logo=bootstrap&logoColor=white&color=f0f7ee&labelColor=black)
-  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-c4d7f2?style=flat&logo=tailwindcss&logoColor=white&color=c4d7f2&labelColor=black)
   
   - Programming Languages
   
@@ -34,16 +35,24 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
   ![C++](https://img.shields.io/badge/C++-D8BFD8?style=flat&logo=cplusplus&logoColor=white&color=bde0fe&labelColor=black)
   
   - Libraries & Frameworks
-  
+    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React.js-AB8BCA?style=flat&logo=react&logoColor=white&labelColor=black&color=7c4a7c)
   <!--
   ![Node.js](https://img.shields.io/badge/Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&labelColor=black&color=c1ebc0)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=black&color=f6c2f3)
   -->
+
+  - Markup & Styling Languages
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Html](https://img.shields.io/badge/HTML-D8BFD8?style=flat&logo=html5&logoColor=white&color=F4E6BA&labelColor=black)
+  ![CSS](https://img.shields.io/badge/CSS-D8BFD8?style=flat&logo=css3&logoColor=white&color=C8B4E1&labelColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-f0f7ee?style=flat&logo=bootstrap&logoColor=white&color=f0f7ee&labelColor=black)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-c4d7f2?style=flat&logo=tailwindcss&logoColor=white&color=c4d7f2&labelColor=black)
+  
   
   - Tools
     
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-afdedc?style=flat&logo=jupyter&logoColor=white&color=afdedc&labelColor=black)
   ![Colab](https://img.shields.io/badge/Google%20Colab-c7b8ea?style=flat&logo=googlecolab&logoColor=white&color=c7b8ea&labelColor=black)
   
@@ -53,9 +62,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 ### Currently Delving Into 
-<!--![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) -->
-![PostgreSQL ](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2)
-![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
+<!--![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) 
+![Power BI](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2) -->
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
+<!--![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black) -->
 
 
 ***
