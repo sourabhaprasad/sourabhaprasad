@@ -1,4 +1,3 @@
-
 <p align='center'>
   <img src= 'https://github.com/sourabhaprasad/sourabhaprasad/assets/70069572/a9edf61f-02d2-4b16-aa21-7f3adc030091' height="200">
 </p>
@@ -70,8 +69,10 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 
 ***
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact&theme=dark" alt="sourabhaprasad" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact" alt="sourabhaprasad" />
+  <!--   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact&theme=dark" alt="sourabhaprasad" /> -->
+</div> 
 
 ***
 ### Essentials
