@@ -71,7 +71,8 @@ I'm a second-year engineering whiz at Global Academy, diving headfirst into the 
 <!--![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) 
 ![Power BI](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2) -->
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
-![Excel](https://img.shields.io/badge/Tool-Excel-D8BFD8?style=flat&logoColor=white&color=613f75&labelColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AB8BCA?style=flat&logo=pytorch&logoColor=white&labelColor=black&color=d4afb9)
+<!-->![Excel](https://img.shields.io/badge/Tool-Excel-D8BFD8?style=flat&logoColor=white&color=613f75&labelColor=black) -->
 <!--![Java](https://img.shields.io/badge/Code-Java-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black) -->
 
 
