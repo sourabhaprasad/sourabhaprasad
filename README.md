@@ -11,7 +11,7 @@ I'm Sourabha, currently pursuing studies in Artificial Intelligence and Machine 
 ***
 ### About 
 
-I'm a second-year engineering whiz at Global Academy, diving headfirst into the captivating world of Artificial Intelligence and Machine Learning. Right now, I'm on this exciting journey of self-discovery, exploring my interests and pushing my boundaries.
+I'm a third-year engineering whiz at Global Academy, diving headfirst into the captivating world of Artificial Intelligence and Machine Learning. Right now, I'm on this exciting journey of self-discovery, exploring my interests and pushing my boundaries.
 
 
 ***
