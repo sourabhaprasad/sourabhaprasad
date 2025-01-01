@@ -90,13 +90,10 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 <p align="left">
   
 
-[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/) 
+[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/) [![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) [![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=72bf6a)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true)
 <!-- [![Leet Code](https://img.shields.io/badge/Profile-32908f?style=flat&logo=leetcode&label=LeetCode&logoColor=white&color=black&labelColor=ff964f)](https://leetcode.com/u/sourabhaprasad/) -->
-[![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) 
 <!--
 [![GitLab](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&label=GitLab&labelColor=ef6351)](https://gitlab.com/sourabhaprasad) --> 
-[![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=72bf6a)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true)
-
 
 <!--
 <a href="https://www.codechef.com/users/sourabhaprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhaprasad" height="30" width="40" /></a>
