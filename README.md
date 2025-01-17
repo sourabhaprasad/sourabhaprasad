@@ -43,6 +43,7 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
   - Libraries & Frameworks
     
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React.js-AB8BCA?style=flat&logo=react&logoColor=white&labelColor=black&color=7c4a7c)
+  ![Next.js](https://img.shields.io/badge/Next.js-AB8BCA?style=flat&logo=nextdotjs&logoColor=white&labelColor=black&color=5d737e)
   <!--
   ![Node.js](https://img.shields.io/badge/Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&labelColor=black&color=c1ebc0)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=black&color=f6c2f3)
