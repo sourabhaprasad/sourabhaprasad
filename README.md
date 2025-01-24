@@ -66,11 +66,11 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 </div>
 
 
-
+<!-- 
 ***
 ### Currently Delving Into 
-<!--![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) 
-![Power BI](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2) -->
+![Tableau ](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white&labelColor=black&color=c6d4ff) 
+![Power BI](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=ffc8a2)
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-D8BFD8?style=flat&logoColor=white&color=E6C9E1&labelColor=black)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AB8BCA?style=flat&logo=pytorch&logoColor=white&labelColor=black&color=d4afb9)
 
@@ -80,9 +80,9 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 
 ***
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact" alt="sourabhaprasad" />
-  <!--   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact&theme=dark" alt="sourabhaprasad" /> -->
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact" alt="sourabhaprasad" />
+-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhaprasad&show_icons=true&locale=en&layout=compact&theme=dark" alt="sourabhaprasad" /> 
 </div> 
 
 ***
@@ -91,16 +91,13 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 <p align="left">
   
 
-[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/) [![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) [![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=a28497)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true) [![GFG](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=geeksforgeeks&logoColor=white&color=black&label=GeeksforGeeks&labelColor=72bf6a)](https://www.geeksforgeeks.org/user/sourabhaaprasad/)
-<!-- [![Leet Code](https://img.shields.io/badge/Profile-32908f?style=flat&logo=leetcode&label=LeetCode&logoColor=white&color=black&labelColor=ff964f)](https://leetcode.com/u/sourabhaprasad/) -->
+[![LinkedIn](https://img.shields.io/badge/Profile-32908f?style=flat&logo=linkedin&label=LinkedIn&logoColor=white&color=black&labelColor=1338be&link=https%3A%2F%2Ftwitter.com%2Fsourabha2401)](https://www.linkedin.com/in/sourabhaprasad/) [![Stack Overflow](https://img.shields.io/badge/Profile-32908f?style=flat&logo=stackoverflow&label=StackOverFlow&logoColor=white&color=black&labelColor=ffadad)](https://stackoverflow.com/users/21899730/sourabha-prasad) [![Twitter](https://img.shields.io/badge/Profile-32908f?style=flat&logo=x&label=Twitter&logoColor=white&color=black&labelColor=32908f)](https://twitter.com/sourabha_prasad) [![Leet Code](https://img.shields.io/badge/Profile-32908f?style=flat&logo=leetcode&label=LeetCode&logoColor=white&color=black&labelColor=ff964f)](https://leetcode.com/u/sourabhaprasad/) [![GFG](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=geeksforgeeks&logoColor=white&color=black&label=GeeksforGeeks&labelColor=72bf6a)](https://www.geeksforgeeks.org/user/sourabhaaprasad/) [![DataCamp](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=datacamp&logoColor=white&color=black&label=DataCamp&labelColor=a28497)](https://www.datacamp.com/portfolio/sourabhaprasad?view=true) 
 <!--
 [![GitLab](https://img.shields.io/badge/Profile-ef6351?style=flat&logo=gitlab&logoColor=white&color=black&label=GitLab&labelColor=ef6351)](https://gitlab.com/sourabhaprasad) --> 
 
 <!--
 <a href="https://www.codechef.com/users/sourabhaprasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabhaprasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourabhaprasad04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabhaprasad04" height="30" width="40" /></a>
-<a href="https://codepen.io/souri-droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souri-droid" height="30" width="40" /></a>
-</p>
 -->
 
 ***
