@@ -17,37 +17,17 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 ***
 ## Technologies & Tools 
   <div>
-
-  - Data Analysis & Data Science
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-AB8BCA?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=856084)
-  ![MySQL](https://img.shields.io/badge/MySQL-AB8BCA?style=flat&logo=mysql&logoColor=white&labelColor=black&color=ef798a)
-  ![Python](https://img.shields.io/badge/Python-D8BFD8?style=flat&logo=python&logoColor=white&labelColor=black&color=388697)
-  ![Pandas](https://img.shields.io/badge/Pandas-AB8BCA?style=flat&logo=pandas&logoColor=white&labelColor=black&color=7d82b8)
-  ![NumPy](https://img.shields.io/badge/NumPy-AB8BCA?style=flat&logo=numpy&logoColor=white&labelColor=black&color=B784B7)
-
-  - Machine Learning
-    
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-AB8BCA?style=flat&logo=scikitlearn&logoColor=white&labelColor=black&color=E493B3)
-
-
-  <br>
   
   - Programming Languages
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black)
-  ![Python](https://img.shields.io/badge/Python-D8BFD8?style=flat&logo=python&logoColor=white&labelColor=black&color=d4adcf)
-  ![C](https://img.shields.io/badge/C-D8BFD8?style=flat&logo=c&logoColor=white&color=f6ca94&labelColor=black)
-  ![C++](https://img.shields.io/badge/C++-D8BFD8?style=flat&logo=cplusplus&logoColor=white&color=bde0fe&labelColor=black)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=AD7FAD&labelColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-D8BFD8?style=flat&logo=typescript&logoColor=white&labelColor=black&color=d4adcf) ![Python](https://img.shields.io/badge/Python-D8BFD8?style=flat&logo=python&logoColor=white&labelColor=black&color=e7d7ca) ![C](https://img.shields.io/badge/C-D8BFD8?style=flat&logo=c&logoColor=white&color=f6ca94&labelColor=black) ![C++](https://img.shields.io/badge/C++-D8BFD8?style=flat&logo=cplusplus&logoColor=white&color=bde0fe&labelColor=black)
   
   - Libraries & Frameworks
     
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/React.js-AB8BCA?style=flat&logo=react&logoColor=white&labelColor=black&color=7c4a7c)
   ![Next.js](https://img.shields.io/badge/Next.js-AB8BCA?style=flat&logo=nextdotjs&logoColor=white&labelColor=black&color=5d737e)
-  <!--
   ![Node.js](https://img.shields.io/badge/Node.js-AB8BCA?style=flat&logo=nodedotjs&logoColor=white&labelColor=black&color=c1ebc0)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=black&color=f6c2f3)
-  -->
 
   - Markup & Styling Languages
   
@@ -62,6 +42,21 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-D8BFD8?style=flat&logo=VisualStudioCode&logoColor=white&color=D8BFD8&labelColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-afdedc?style=flat&logo=jupyter&logoColor=white&color=afdedc&labelColor=black)
   ![Colab](https://img.shields.io/badge/Google%20Colab-c7b8ea?style=flat&logo=googlecolab&logoColor=white&color=c7b8ea&labelColor=black)
+
+  - Data Analysis & Data Science
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-AB8BCA?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=856084)
+  ![MySQL](https://img.shields.io/badge/MySQL-AB8BCA?style=flat&logo=mysql&logoColor=white&labelColor=black&color=ef798a)
+  ![Python](https://img.shields.io/badge/Python-D8BFD8?style=flat&logo=python&logoColor=white&labelColor=black&color=388697)
+  ![Pandas](https://img.shields.io/badge/Pandas-AB8BCA?style=flat&logo=pandas&logoColor=white&labelColor=black&color=7d82b8)
+  ![NumPy](https://img.shields.io/badge/NumPy-AB8BCA?style=flat&logo=numpy&logoColor=white&labelColor=black&color=B784B7) ![Excel](https://img.shields.io/badge/Tool-Excel-D8BFD8?style=flat&logoColor=white&color=613f75&labelColor=black)
+
+  - Machine Learning
+    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-AB8BCA?style=flat&logo=scikitlearn&logoColor=white&labelColor=black&color=E493B3)
+
+
+  <br>
   
 </div>
 
