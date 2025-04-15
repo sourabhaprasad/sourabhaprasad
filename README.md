@@ -101,8 +101,7 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
 
 <p align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sourabhaprasad&show_icons=true&locale=en" alt="sourabhaprasad" style="width: 40%; height: auto;" /> &nbsp; 
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" style="width: 40%; height: auto;" /> &nbsp; 
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhaprasad&" alt="sourabhaprasad" /> </p>
 
 
 <p align="left"> 
@@ -110,19 +109,6 @@ I'm a third-year engineering whiz at Global Academy, diving headfirst into the c
     <img src="https://github-profile-trophy.vercel.app/?username=sourabhaprasad&theme=onedark" alt="sourabhaprasad" style="width: 90%; height: auto;" />
   </a> 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
